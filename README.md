@@ -5,20 +5,22 @@ Exploited canvas element in HTML5, CSS and vanilla JavaScript, building a standa
 ![](pictures/brick-breaker.gif)
 
 # Tech/framework used
-Canvas element in HTML
-CSS
-vanilla JavaScript
+>Canvas element in HTML
+
+>CSS
+
+>vanilla JavaScript
 
 # Features
-stage customization
-collision detection 
-setting frames per second (FPS) and speeds 
+>stage customization
+
+>collision detection 
+
+>setting frames per second (FPS) and speeds 
 
 # How to use?
 copy the project to desktop, and open 'game.html' in your browser
 
 # License
-A short snippet describing the license (MIT, Apache etc)
-
 MIT © chen
 
